@@ -9,4 +9,4 @@ This project is a web application that uses Screen Capture API and Picture-in-Pi
 
 If you would like to contribute to this project or report issues, please visit the [GitHub repository](https://github.com/kapilsinghnegi/Picture-in-Picture/).
 
-Thank you for using Pictur in Picture! Enjoy using it.
+Thank you for using Picture in Picture! Enjoy using it.
